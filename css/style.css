@@ -55,6 +55,30 @@ h6{
 .card p{
     text-align: center;
 }
+.card input {
+    margin-bottom: 5px;
+    margin-left: 5px;
+    width: 95%;
+}
+.tarjeta {
+    width: 100%;
+    background-color: antiquewhite;
+}
+.tarjeta img{
+    padding:5px;
+    width: 100%;
+    height: 85px;
+    display: block;
+    margin: 0 auto;
+}
+.tarjeta p{
+    text-align: center;
+}
+.tarjeta input {
+    margin-bottom:5px;
+    margin-left: 5px;
+    width: 95%;
+}
 header img {
     display: flex;
     width: 10% ;
@@ -82,6 +106,3 @@ fieldset {
     gap: 5px;
     padding: 0 auto;
     }
-.card input {
-    margin-bottom: 5px;
-}
